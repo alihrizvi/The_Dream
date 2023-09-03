@@ -6,7 +6,8 @@ html {
 
 div{                    /*horizontally center a div by giving it a width of 75% and a margin-left of 12.5%.*/
   width:75%;
-  margin: 5% 12.5%;
+  height:75%;
+  margin: 12.5% 12.5%;
 }
 
 img {
